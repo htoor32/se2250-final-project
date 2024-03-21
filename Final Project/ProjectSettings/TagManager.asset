@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GroundCheck
+  - AimCamera
+  - FreeLookCamera
+  - CameraFollow
+  - BulletSpawn
+  - Bullet
+  - WeaponHolder
+  - HealthPickup
+  - StaminaPickup
+  - UpgradePickup
+  - PrimaryWeapon
+  - SecondaryWeapon
+  - EnemyProjectile
+  - WeaponSights
+  - AmmoPickup
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Terrain
+  - Enemy
+  - Bullet
+  - Pickup
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
